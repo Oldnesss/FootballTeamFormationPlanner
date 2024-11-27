@@ -54,7 +54,7 @@ Football Team Formation Planner 🏟️⚽
 1. Клонируйте репозиторий:
    
 ```
-git clone https://github.com/your-username/football-team-planner.git
+git clone [https://github.com/your-username/football-team-planner.git](https://github.com/Oldnesss/FootballTeamFormationPlanner)
 
 cd football-team-planner
 ```
