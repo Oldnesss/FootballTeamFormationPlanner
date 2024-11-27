@@ -53,16 +53,20 @@ Football Team Formation Planner 🏟️⚽
 
 1. Клонируйте репозиторий:
    
-```git clone https://github.com/your-username/football-team-planner.git
+```
+git clone https://github.com/your-username/football-team-planner.git
+
 cd football-team-planner
 ```
 
 2. Установите зависимости:
-```npm install
+```
+npm install
 ```
 
 4. Запустите приложение:
-```npm start
+```
+npm start
 ```
 
 
