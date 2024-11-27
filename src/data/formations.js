@@ -1,0 +1,28 @@
+export const FORMATIONS = {
+  "4-3-3": [
+    { x: 50, y: 90, label: "Keeper" },
+    { x: 20, y: 75, label: "Full Back" },
+    { x: 40, y: 75, label: "Centre Back" },
+    { x: 60, y: 75, label: "Centre Back" },
+    { x: 80, y: 75, label: "Full Back" },
+    { x: 30, y: 50, label: "Centre Midfield" },
+    { x: 50, y: 50, label: "Centre Midfield" },
+    { x: 70, y: 50, label: "Centre Midfield" },
+    { x: 20, y: 25, label: "Left Winger" },
+    { x: 50, y: 25, label: "Centre Forward" },
+    { x: 80, y: 25, label: "Right Winger" },
+  ],
+  "4-4-2": [
+    { x: 50, y: 90, label: "Keeper" },
+    { x: 20, y: 75, label: "Full Back" },
+    { x: 40, y: 75, label: "Centre Back" },
+    { x: 60, y: 75, label: "Centre Back" },
+    { x: 80, y: 75, label: "Full Back" },
+    { x: 20, y: 50, label: "Centre Midfield" },
+    { x: 40, y: 50, label: "Centre Midfield" },
+    { x: 60, y: 50, label: "Centre Midfield" },
+    { x: 80, y: 50, label: "Centre Midfield" },
+    { x: 35, y: 25, label: "Centre Forward" },
+    { x: 65, y: 25, label: "Centre Forward" },
+  ],
+};
